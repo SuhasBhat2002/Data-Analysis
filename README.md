@@ -8,4 +8,4 @@ This contains explanation of how I have interpreted the data. Which answers Key 
 
 I have used yfinance library to collect data. 
 
-I have applied Linear Regression on the very same Amazon data I collected.
+I have applied Linear Regression on the very same Amazon data I collected, which is in the Regression Repository.
